@@ -24,3 +24,7 @@ button {
     align-items: center;
     border-radius: 6px;
 }
+
+.btns {
+    text-align: center;
+}
